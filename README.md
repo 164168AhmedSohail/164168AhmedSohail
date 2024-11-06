@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Sohail
 ====================================================================================================================================
 
-Full Stack Engineer(React,Node,Angular,MongoDv,Next,Nest JS)
+Full Stack Engineer(React,Node,Angular,MongoDB,Next,Nest JS)
 ------------------------------------------------------------
 
 Highly motivated Senior Frontend Engineer with 5+ years of experience building performant and user-friendly web applications using React.js, Next.js (frontend & backend), and other modern technologies. Proven ability to translate designs into interactive and scalable UIs, collaborate effectively in remote environments, and contribute to high-quality codebases. Passionate about building customer-centric products and delivering exceptional user experiences.
